@@ -1,3 +1,3 @@
-hoy hablaremos de su vida como programador
+este es el primer release del archivo después de un checkout
 
-y de su vida como papá
+y quiero ver que pasa cuando hago este cambio
